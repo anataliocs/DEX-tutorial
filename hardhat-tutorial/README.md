@@ -4,6 +4,8 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+Exchange Contract Address: 0x1dd8c564F8f679327978DC06949a74CdA3C6A1c2
+
 ```shell
 npx hardhat help
 npx hardhat test
